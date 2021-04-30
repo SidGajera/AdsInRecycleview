@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">AdsDemo</string>
+    <string-array name="array_list">
+        <item>Android</item>
+        <item>Android</item>
+        <item>Android</item>
+        <item>Android</item>
+        <item>Android</item>
+        <item>Android</item>
+        <item>Android</item>
+        <item>Android</item>
+        <item>Android</item>
+        <item>Android</item>
+        <item>Android</item>
+        <item>Android</item>
+        <item>Android</item>
+        <item>Android</item>
+        <item>Android</item>
+        <item>Android</item>
+        <item>Android</item>
+        <item>Android</item>
+        <item>Android</item>
+        <item>Android</item>
+        <item>Android</item>
+        <item>Android</item>
+        <item>Android</item>
+        <item>Android</item>
+        <item>Android</item>
+        <item>Android</item>
+    </string-array>
+</resources>
